@@ -21,7 +21,7 @@ One crop that did stand out was Cloves, which did not seem to drop between yeild
 
 While it was interesting that cloves had the most consitent yield growth, I wanted to know the distribution among the countries where it is produced. I wanted to know if this average is being driven by one country primarily, or if it is a true representation of the entire global production. 
 
-The global clove productions is dominated by Indonesia, but interestingly Indonesia is not the largest driver of the clove yield rate increase.
+The global clove productions is dominated by Indonesia, but interestingly Indonesia is not the largest driver of the clove yield rate increase. The United Republic of Tanzinia and Sri Lanka are much more responsible for the increase in yield.
 
 ![Cloves prod by country](/images/clovesprodcountries.png)
 ![Cloves prod by country](/images/clovesyieldcountries.png)
