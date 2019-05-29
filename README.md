@@ -26,3 +26,8 @@ The global clove productions is dominated by Indonesia, but interestingly Indone
 ![Cloves prod by country](/images/clovesprodcountries.png)
 ![Cloves prod by country](/images/clovesyieldcountries.png)
 
+## Hypothesis Test
+
+Null Hypothesis: The producer price of Cloves was not impacted by the increase in yeild.
+Alternate Hypothesis: The producer price was lower or higher depending on the increase in yeild.
+
