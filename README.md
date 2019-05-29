@@ -7,7 +7,7 @@ The dataset used for this analysis came from the Food and Argricultural Organiza
 By using the crop yield data, I calculated the yeild change rate year over year for the global yeild average of each crop.
 
 For example here is the yield rate of change for Avocados globally from 2000 to 2010:
-< insert image of avocado rates here >
+![Avocado Yield List](/images/avocadoyieldlist.png)
 
 By analyzing the crop yield data, I identified crops where the yeild rate change was greater than a given threshold for the greatest number of years. Olive, Pistachios, Quinoa, Hempseed, and Cloves are all crops that had a 5% or greater yeild change rate for 20 or more years between 1961 and 2017. Of those, I began to notice that even though they had a large number of years that the Yeild rate change was significant, it was largely due to the irradic year over year yield. 
 
