@@ -13,8 +13,7 @@ By analyzing the crop yield data, I identified crops where the yeild rate change
 
 For example, even though Olives yeild did increase by more than 5% for more than 20 years, it was spread across many years when the yield had dropped in previous years.
 
-![Olives]
-(https://github.com/alyserecord/agricultural_yield/blob/master/images/olivesyield.png)
+![Olives](/images/olivesyield.png)
 
 One crop that did stand out was Cloves, which did not seem to drop between yeild rate increases on average.
 
