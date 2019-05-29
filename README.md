@@ -31,3 +31,4 @@ The global clove productions is dominated by Indonesia, but interestingly Indone
 Null Hypothesis: The producer price of Cloves was not impacted by the increase in yeild.
 Alternate Hypothesis: The producer price was lower or higher depending on the increase in yeild.
 
+Alpha = .1
