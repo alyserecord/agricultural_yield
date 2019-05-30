@@ -60,7 +60,7 @@ To continue with the Cloves theme, I took a look at the price data I had for Clo
 Although it may be increasing slightly over time there was not a strong correlation between the yield increase and the price, so I chose to not pursue the price angle further given the time allotted for this project.
 
 ## Compound annual growth rate
-As future analysis of the yield growth and how it compared across crops, I calculated the compound annual growth (CAGR) rate for global average yield per crop. The CAGR was supposed to provided insight into the average yield change rate of the crop over time, but I couldn't really figure out how to use it.
+As future analysis of the yield growth and how it compared across crops, I calculated the compound annual growth rate (CAGR) for global average yield per crop. The CAGR was supposed to provided insight into the average yield change rate of the crop over time, but I couldn't really figure out how to use it in the time allotted for the project
 
 ## Future work
 
@@ -71,4 +71,4 @@ Since the price data is already cleaned and adjusted for inflation, I would like
 Since I have calculated the CAGR for all crops, I'd like to spend more time understanding how this data could be utilized for furture analysis.
 
 ### Hypothesis testing
-My main goal of this project was to run hypothesis tests on the crops that had the most consistent yield and compare them to the yield rates of the population of crops. I struggled to set up a test and ran out of time, so I would like to complete this goal.
+My main goal of this project was to run hypothesis tests on the crops that had the most consistent yield and compare them to the yield rates of the population of crops. I struggled to set up a test and ran out of time, so I would like to complete this goal as future work on this project.
