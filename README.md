@@ -7,7 +7,7 @@ The dataset used for this analysis came from the Food and Argricultural Organiza
 
 Also used in my project is a crop price dataset that also came from the FAO. Similar to the crop production dataset, this dataset can by downloaded in its entirety at the FAO's website. 
 
-[http://www.fao.org/faostat/en/#data]
+[I'm an inline-style link](http://www.fao.org/faostat/en/#data)
 
 ## What crops have had the most consistent yield increase globally? 
 
