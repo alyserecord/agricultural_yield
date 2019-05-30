@@ -44,7 +44,7 @@ I found that the global Cloves productions is dominated by Indonesia. The follow
 ![Cloves prod by country](/images/clovesproductioncountries.png)
 
 But interestingly, Indonesia is not the largest driver of the clove yield rate increase. The United Republic of Tanzinia and Sri Lanka are much more responsible for the increase in yield.
-![Cloves prod by country](/images/clovesyieldcountries.png)
+![Cloves yield by country](/images/clovesyieldcountries.png)
 
 ## Price data
 My plan was take a look at the producer pricing data for the crops that had the highest yield increases, to see how/if the producer price was impacted by the increase in yield. 
