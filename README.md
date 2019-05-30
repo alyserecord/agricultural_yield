@@ -1,6 +1,6 @@
 # Global Agricultural Yield EDA Project
 ## Why this topic?
-I choice this topic because I've always been interested in food production and how it changes over time due to various factors. I found this worldwide dataset about many different crops for many different years and countries. I was interested to learn more about the various crop yield rates so I chose to do my project on this dataset.
+I choice this topic because I've always been interested in food production and how it changes over time due to various factors. I found this worldwide dataset about many different crops for many different years and countries. I was interested to learn more about the various crop yield rates so I chose to do my project on this dataset. My ultimate goal was to look at how/if the yield changes impacted the the price of the crop.
 
 ## The dataset
 The dataset used for this analysis came from the Food and Argricultural Organization (FAO) of the United Nations. The FAO's Crops dataset consists of area harvested (ha), production (tons), and yield (hg/ha) data for 173 crops broken out by country and years 1961-2017. The FAO allows you to download the entire dataset 40,000+ rows, and each row details a crop, a country, and the columns provide details about that crop and country for 50+ years.
@@ -64,8 +64,11 @@ As future analysis of the yield growth and how it compared across crops, I calcu
 
 ## Future work
 
-### Price data comparison
+### Continue price data comparison
 Since the price data is already cleaned and adjusted for inflation, I would like to pursue the comparison between yield and pricing future. Since it did not pan out looking at the top two crops with the most consistently growing yield (Vegetables Primary and Cloves), I want to look at some of the other crops than were also growing in yield consistently. Also, it would be interesting to compare to the production to the price data as well, to see as a particular crop's production was growing if it had an impact on its price.  
+
+## Compound annual growth rate
+Since I have calculated the CAGR for all crops, I'd like to spend more time understanding how this data could be utilized for furture analysis.
 
 ### Hypothesis testing
 My main goal of this project was to run hypothesis tests on the crops that had the most consistent yield and compare them to the yield rates of the population of crops. I struggled to set up a test and ran out of time, so I would like to complete this goal.
