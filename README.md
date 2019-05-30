@@ -20,9 +20,9 @@ First by using the crop yield data, I calculated the yeild change rate year over
 For example here is the yield rate of change for Avocados globally from 2000 to 2010:
 ![Avocado Yield List](/images/avocadoyieldlist.png)
 
-By analyzing the crop yield data, I identified crops where the yeild rate change was greater than a given threshold for the greatest number of years. Olive, Pistachios, Quinoa, Hempseed, and Cloves were all identifed as crops that had a 5% or greater yeild increase rate for 20 or more years between 1961 and 2017. Of those crops, I noticed that even though they had a large number of years that the Yeild rate change was significant, it was largely due to the irradic year over year yield. 
+By analyzing the crop yield data, I identified crops where the yeild rate change was greater than a given threshold for the greatest number of years. **Olives, Pistachios, Quinoa, Hempseed, and Cloves** were all identifed as crops that had a 5% or greater yeild increase rate for 20 or more years between 1961 and 2017. Of those crops, I noticed that even though they had a large number of years that the Yeild rate change was significant, it was largely due to the irradic year over year yield. 
 
-For example, even though Olives yeild did increase by more than 5% for more than 20 years, it was spread across many years when the yield had dropped in previous years.
+For example, even though Olives yeild did increase by more than 5% for more than 20 years, it was spread across many years when the yield had dropped significanly in the previous year.
 
 ![Olives](/images/olivesyield.png)
 
@@ -30,7 +30,9 @@ One crop that did stand out was Cloves, which did not seem to drop between yeild
 
 ### Consistent increase in yield
 
-After additional analysis to look for crops who's global yield average had increased for the highest number of years without decreasing, it was indeed Cloves that had the most consistent yield growth.
+I calculated which crops had the largest number of years where the yield consistently increased by looking at the year over year change rate in yield when the change rate did not fall below zero. The top crops from this analysis were **Vegetables Primary, Cloves, Nutmeg, mace and cardamoms, Cassava leaves, Pumpkins, squash and gourds**
+
+Interestingly Cloves was still near the very top of the list. Starting in 
 
 ![Cloves_Global](/images/cloves_yield_prod.png)
 
@@ -43,13 +45,9 @@ The global clove productions is dominated by Indonesia, but interestingly Indone
 
 
 
-# 
+## Future work
 
-## Hypothesis Test
+### Price data comparison
 
-Null Hypothesis: Cloves average yield increase is in the bottom 80% compared with other crops.
-
-Alternate Hypothesis: Cloves average yield increase is in the top 20% compared with other crops.
-
-Alpha = .1
+### Hypothesis testing
 
