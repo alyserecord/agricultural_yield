@@ -60,12 +60,16 @@ To continue with the Cloves theme, I took a look at the price data I had for Clo
 Although it may be increasing slightly over time there was not a strong correlation between the yield increase and the price, so I chose to not persue the price angle further given the time allotted for this project.
 
 ## Compound annual growth rate
-As future analysis of the yield growth and how it compared across crops, I calculated the compound annual growth (CAGR) rate for global average yield per crop. 
+As future analysis of the yield growth and how it compared across crops, I calculated the compound annual growth (CAGR) rate for global average yield per crop. The CAGR provided insight into the average yield change rate of the crop over time.
+
+After calculating the CAGR for each crop, I bootstraped samples from the population of crop CAGRs and plotted the sample means. I also plotted the CAGR for the top two crops with the most consistently growing yield to see where they fell in the distribution.
+
+![bootstrapped](/images/bootstrapped)
 
 ## Future work
 
 ### Price data comparison
-Since the price data is already cleaned and adjusted for inflation, I would like to persue the comparison between yield and pricing future. Since it did not pan out looking at the top two consistently growing yield crops (Vegetables Primary and Cloves), I want to look at some of the other crops than were also growing in yield consistently. Also, it would be interesting to compare to the prouction to the price data as well, to see as a particular crop's production was growing if it had an impact on its price.  
+Since the price data is already cleaned and adjusted for inflation, I would like to persue the comparison between yield and pricing future. Since it did not pan out looking at the top two crops with the most consistently growing yield (Vegetables Primary and Cloves), I want to look at some of the other crops than were also growing in yield consistently. Also, it would be interesting to compare to the prouction to the price data as well, to see as a particular crop's production was growing if it had an impact on its price.  
 
 ### Hypothesis testing
-
+My main goal of this project was to run hypothesis tests on the crops that had the most consistent yield and compare them to the yield rates of the population of crops. I struggled to set up a test and ran out of time, so I would like to complete this goal.
