@@ -1,6 +1,13 @@
 # Global Agricultural Yield
+## Why this topic?
+I choice this topic because I've always been interested in food production and how it changes over time due to various factors. I found this worldwide dataset about many different crops for many different years and countries. I was interested to learn more about the various crop yield rates so I chose to do my project on this dataset.
+
 ## The dataset
-The dataset used for this analysis came from the Food and Argricultural Organization (FAO) of the United Nations. The FAO's Crops dataset consists of area harvested (ha), production (tons), and yield (hg/ha) data for 173 crops broken out by country and years 1961-2017. 
+The dataset used for this analysis came from the Food and Argricultural Organization (FAO) of the United Nations. The FAO's Crops dataset consists of area harvested (ha), production (tons), and yield (hg/ha) data for 173 crops broken out by country and years 1961-2017. The FAO allows you to download the entire dataset 40,000+ rows, and each row details a crop, a country, and the columns provide details about that crop and country for 50+ years.
+
+Also used in my project is a crop price dataset that also came from the FAO. Similar to the crop production dataset, this dataset can by downloaded in its entirety at the FAO's website. 
+
+[http://www.fao.org/faostat/en/#data]
 
 ## What crops have had the most consistent yield increase globally? 
 
@@ -26,9 +33,15 @@ The global clove productions is dominated by Indonesia, but interestingly Indone
 ![Cloves prod by country](/images/clovesprodcountries.png)
 ![Cloves prod by country](/images/clovesyieldcountries.png)
 
+
+
+# 
+
 ## Hypothesis Test
 
-Null Hypothesis: The producer price of Cloves was not impacted by the increase in yeild.
-Alternate Hypothesis: The producer price was lower or higher depending on the increase in yeild.
+Null Hypothesis: Cloves average yield increase is in the bottom 80% compared with other crops.
+
+Alternate Hypothesis: Cloves average yield increase is in the top 20% compared with other crops.
 
 Alpha = .1
+
