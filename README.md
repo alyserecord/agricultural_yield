@@ -1,4 +1,4 @@
-# Global Agricultural Yield EDA Project
+# Global Agricultural Crop Yield EDA Project
 ## Why this topic?
 I choice this topic because I've always been interested in food production and how it changes over time due to various factors. I found this worldwide dataset about many different crops for many different years and countries. I was interested to learn more about the various crop yield rates so I chose to do my project on this dataset. My ultimate goal was to look at how/if the yield changes impacted the the price of the crop.
 
