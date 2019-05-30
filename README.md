@@ -30,9 +30,9 @@ One crop that did stand out was Cloves, which did not seem to drop between yeild
 
 ### Consistent increase in yield
 
-I calculated which crops had the largest number of years where the yield consistently increased by looking at the year over year change rate in yield when the change rate did not fall below zero. The top crops from this analysis were **Vegetables Primary, Cloves, Nutmeg, mace and cardamoms, Cassava leaves, Pumpkins, squash and gourds**
+I calculated which crops had the largest number of years where the yield consistently increased by looking at the year over year change rate in yield when the change rate did not fall below zero. The top crops from this analysis were **Vegetables Primary, Cloves, Nutmeg, mace and cardamoms, Cassava leaves, Pumpkins, squash and gourds**.
 
-Interestingly Cloves was still near the very top of the list. Starting in 
+Interestingly Cloves was still near the very top of the list. Starting in the early 1990s, the Cloves yield started to increase and continued to inclear through 2017. The production of cloves during this time also consistently increased.
 
 ![Cloves_Global](/images/cloves_yield_prod.png)
 
