@@ -50,7 +50,7 @@ But interestingly, Indonesia is not the largest driver of the clove yield rate i
 My plan was take a look at the producer pricing data for the crops that had the highest yield increases, to see how/if the producer price was impacted by the increase in yield. 
 
 ### Cleaning the price data
-The price data needed a bit more data cleaning than the 
+The price data needed a bit more data cleaning than the crops production data. The biggest hurddle was that the FAO's website did not indicate if the price data had been adjusted for inflation, so I assumed that it had not been. I used the [cpi library](https://github.com/datadesk/cpi) to adjust each USD value to the current data equivalent.
 
 ### Pitfalls of the price dataset
 While I was cleaning the data, I found in the price dataset was that it only included years 1991 - 2017, and it did not contain all of the crops that I for which had production and yield data. For example, the crop with the most consistent yield increase (Vegetables Primary) was not included in the price data. Similarly, even if a crop was included it did not have data for all the contries and it had many nulls for the countries where it did have some data.
@@ -58,6 +58,9 @@ While I was cleaning the data, I found in the price dataset was that it only inc
 To continue with the Cloves theme, I took a look at the price data I had for Cloves. Most of this information is from Sri Lanka which contributed some to the overall yield increase, but was not the primary driver.
 
 Although it may be increasing slightly over time there was not a strong correlation between the yield increase and the price, so I chose to not persue the price angle further given the time allotted for this project.
+
+## Compound annual growth rate
+As future analysis of the yield growth and how it compared across crops, I calculated the compound annual growth (CAGR) rate for global average yield per crop. 
 
 ## Future work
 
