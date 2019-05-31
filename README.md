@@ -59,8 +59,10 @@ To continue with the Cloves theme, I took a look at the price data I had for Clo
 
 Although it may be increasing slightly over time there was not a strong correlation between the yield increase and the price, so I chose to not pursue the price angle further given the time allotted for this project.
 
+[Cloves price data](/images/clovesyieldcountries.png)
+
 ## Compound annual growth rate
-As futher analysis of the yield growth and how it compared across crops, I calculated the compound annual growth rate (CAGR) for global average yield per crop. The CAGR was supposed to provided insight into the average yield change rate of the crop over time, but I couldn't really figure out how to use it in the time allotted for the project
+As futher analysis of the yield growth and how it compared across crops, I calculated the compound annual growth rate (CAGR) for global average yield per crop. The CAGR was supposed to provided insight into the average yield change rate of the crop over time, but I couldn't really figure out how to use it in the time allotted for the project.
 
 ## Future work
 
