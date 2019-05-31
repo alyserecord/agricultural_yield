@@ -15,7 +15,7 @@ I was interested to know which crops had the largest increase in yield (ha/hg) f
 
 ### Number of years with a significant increase
 
-First by using the crop yield data, I calculated the yield change rate year over year for the global yield average of each crop.
+First by using the crop yield data, I calculated the yield change rate year over year for each crop. This averaged the yield rate for all countries that produce the crop. 
 
 For example here is the yield rate of change for Avocados globally from 2000 to 2010:
 ![Avocado Yield List](/images/avocadoyieldlist.png)
