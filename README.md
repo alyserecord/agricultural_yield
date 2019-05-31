@@ -18,6 +18,7 @@ I was interested to know which crops had the largest increase in yield (ha/hg) f
 First by using the crop yield data, for a given crop I averaged the yield rate for all countries that procuded that crop. Then I calculated the global yield change rate year over year for each crop.
 
 For example here is the yield rate of change for Avocados globally from 2000 to 2010:
+
 ![Avocado Yield List](/images/avocadoyieldlist.png)
 
 By analyzing the crop yield data, I identified crops where the yield rate change was greater than a given threshold for the greatest number of years. **Olives, Pistachios, Quinoa, Hempseed, and Cloves** were all identified as crops that had a 5% or greater yield increase rate for 20 or more years between 1961 and 2017. Of those crops, I noticed that even though they had a large number of years that the yield rate change was significant, it was largely due to the erradic year over year yield. 
